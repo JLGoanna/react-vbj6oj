@@ -1,0 +1,28 @@
+{
+  "name": "ed6ayc--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@mui/material": "5.10.0",
+    "@mui/x-data-grid-pro": "5.15.2",
+    "@mui/x-data-grid-generator": "5.15.2",
+    "@emotion/react": "11.10.0",
+    "@emotion/styled": "11.10.0",
+    "@mui/x-data-grid": "5.15.2",
+    "@mui/icons-material": "5.8.4",
+    "@types/react": "18.0.17",
+    "@types/react-dom": "18.0.6",
+    "typescript": "4.7.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
